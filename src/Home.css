@@ -1,0 +1,132 @@
+.BF{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+     text-shadow: 2px 2px rgb(56, 56, 56) ;
+     padding-bottom: 20px;
+}
+.carousel-inner{
+  height:700px;
+  width: 90%;
+  margin-left: 65px;
+  padding-top: 30px;
+   border-style: solid 6px;
+  border-color: black;
+   border-width: 3px;
+}
+.titleT{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+     text-shadow: 2px 2px black ;
+}
+
+.card-title{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 30px;
+   color: black;
+}
+.card1{
+background-color: rgba(245, 245, 245, 0);
+}
+.cardb1{
+  text-align: right;
+}
+.card-deck{
+    padding-top: 30px;
+}
+.navvv{
+    width: 90%;
+     margin-left: 65px;
+     background-color: rgb(41, 41, 41);
+     color: black;
+     padding-left: 30%;
+}.cardd{
+    background-color: rgba(0, 0, 0, 0);
+    
+}
+.card-title{
+  margin-right: 100px;
+}
+.jumbotron {
+ background-image: url(https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/07/campus-boombox-hat.jpg);
+  height:550px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100% 100%;
+   width: 90%;
+   margin-left: 65px;;
+  /* border-bottom:1px solid #ff6a00 */
+}
+.jumbotron .container {
+  position:relative;
+  top:50px;
+}
+.explain{
+  height: 200px;
+
+}
+.strt-ttl{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  text-shadow: 2px 2px black ;
+}
+.strt-prgph{
+  text-align: center;
+  height: 500px;
+}
+.cardd-title{
+  text-align: center;
+  color: black;
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.paragraphhome{
+  width: 80%;
+  margin-left:133px;
+}
+.parahome{
+font-family: 'Times New Roman', Times, serif;
+font-size: 23px;
+color: black;
+text-align: center;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.parahome2{
+  padding-top: 20px;
+}
+.er1{
+  background-color: rgba(43, 88, 170, 0);
+}
+.er2{
+  background-color: rgba(126, 26, 26, 0);
+}
+.er3{
+padding-top: 20px;
+font-weight: bold;
+background-color: rgba(255, 255, 240, 0);
+}
+.eor{
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Times New Roman', Times, serif;
+ font-size: 20px;
+}
+.card-text{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+}
+.btn2{
+  margin-left: 40%;
+  background-color: black;
+  color: whitesmoke;
+}
