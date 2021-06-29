@@ -4,14 +4,12 @@ import Navbar from "./Navbar.js";
 import { Link } from "react-router-dom";
 
 const Gallery = () => {
-return (
+  return (
     <div className="gallery-bg">
-        <Navbar/> 
-        <div className="testg">
-            test
-        </div>
+      <Navbar />
+      <div className="testg">test</div>
     </div>
-)
-}
+  );
+};
 
-export default Gallery
+export default Gallery;

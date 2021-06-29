@@ -1,13 +1,6 @@
 import React from "react";
-import './App.css';
-
-
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
-} from "react-router-dom";
+import "./App.css";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Kendrick from "./Kendrick.js";
 import Home from "./Home.js";
 import Learnrap from "./Learnrap.js";
@@ -15,7 +8,16 @@ import Gallery from "./Gallery.js";
 import Music from "./Music.js";
 import History from "./History.js";
 
- function App() {
+import { library } from "@fortawesome/fontawesome-svg-core";
+import {
+  faEnvelope,
+  faLock,
+  faCompass,
+} from "@fortawesome/free-solid-svg-icons";
+
+library.add(faEnvelope, faLock, faCompass);
+
+function App() {
   return (
     <Router>
       <div>
@@ -29,13 +31,13 @@ import History from "./History.js";
           <Route path="/learnRap">
             <Learnrap />
           </Route>
-           <Route path="/gallery">
+          <Route path="/gallery">
             <Gallery />
-            </Route>
-             <Route path="/music">
+          </Route>
+          <Route path="/music">
             <Music />
           </Route>
-           <Route path="/history">
+          <Route path="/history">
             <History />
           </Route>
         </Switch>

@@ -5,14 +5,12 @@ import Navbar from "./Navbar.js";
 import { Link } from "react-router-dom";
 
 const Learnrap = () => {
-return (
+  return (
     <div className="learnrap-bg">
-     <Navbar/>
-     <div className="testlr">
-            test
-        </div>
+      <Navbar />
+      <div className="testlr">test</div>
     </div>
-)
-}
+  );
+};
 
 export default Learnrap;

@@ -4,14 +4,12 @@ import Navbar from "./Navbar.js";
 import { Link } from "react-router-dom";
 
 const Music = () => {
-return (
+  return (
     <div className="music-bg">
-        <Navbar/> 
-        <div className="testm">
-            test are u there 
-        </div>
+      <Navbar />
+      <div className="testm">test are u there</div>
     </div>
-)
-}
+  );
+};
 
-export default Music
+export default Music;

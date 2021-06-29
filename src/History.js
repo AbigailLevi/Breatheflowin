@@ -4,14 +4,12 @@ import Navbar from "./Navbar.js";
 import { Link } from "react-router-dom";
 
 const History = () => {
-return (
+  return (
     <div className="history-bg">
-        <Navbar/> 
-        <div className="testh">
-            test
-        </div>
+      <Navbar />
+      <div className="testh">test</div>
     </div>
-)
-}
+  );
+};
 
-export default History
+export default History;
