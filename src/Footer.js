@@ -11,9 +11,6 @@ const Footer = () => {
 
       <div className="footerlinks">
         <button className="linkdin">
-          <FontAwesomeIcon icon={faCompass} />
-        </button>
-        <button className="linkdin">
           <FontAwesomeIcon icon={faEnvelope} />
         </button>
         <button className="linkdin">

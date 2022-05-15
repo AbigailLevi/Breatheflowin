@@ -1,39 +1,46 @@
-.navbar{
-    background-color: rgba(128, 128, 128, 0);
-    font-family: 'Times New Roman', Times, serif;
+.navbar {
+  background-color: rgba(128, 128, 128, 0);
+  font-family: "Times New Roman", Times, serif;
 }
-html{ 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+html {
+  background: url(image/kendrickawake.webp)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-.kendrick-bg {
-    background: url(https://urban96.fm/wp-content/uploads/2020/07/kendrick.jpg) no-repeat center center fixed;
-    height: 625px; 
-     background-size: 100% 100%; 
+.home-bg {
+  background-image: linear-gradient(
+    rgb(0, 0, 0),
+    rgb(24, 24, 24),
+    rgb(44, 44, 44),
+    rgb(63, 63, 63),
+    rgb(85, 85, 85),
+    rgb(121, 121, 121),
+    rgb(167, 167, 167),
+    rgb(194, 194, 194),
+    white,
+    rgb(71, 71, 71)
+  );
+  
 }
-.home-bg{
-   background-image: linear-gradient(rgb(0, 0, 0), rgb(24, 24, 24) , rgb(44, 44, 44), rgb(63, 63, 63) , rgb(85, 85, 85) , rgb(121, 121, 121) , rgb(167, 167, 167) , rgb(194, 194, 194),white,rgb(71, 71, 71));
-    height: 100%; 
-     background-size: 100% 100%; 
-}.learnrap-bg{
-     background-color: grey;
-    height: 1000px; 
-     background-size: 100% 100%; 
+.learnrap-bg {
+  background-color: grey;
+  height: 1000px;
+  background-size: 100% 100%;
 }
-.gallery-bg{
-     background-color: rgb(163, 127, 127);
-    height: 1000px; 
-     background-size: 100% 100%; 
+.gallery-bg {
+  background-color: rgb(163, 127, 127);
+  height: 1000px;
+  background-size: 100% 100%;
 }
-.music-bg{
+/* .music-bg{
      background-color: orangered;
     height: 1000px; 
      background-size: 100% 100%; 
-}
-.history-bg{
-     background-color: purple;
-    height: 1000px; 
-     background-size: 100% 100%; 
+} */
+.history-bg {
+  background-color: purple;
+  height: 1000px;
+  background-size: 100% 100%;
 }

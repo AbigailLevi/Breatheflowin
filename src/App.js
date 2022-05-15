@@ -37,9 +37,9 @@ function App() {
           <Route path="/music">
             <Music />
           </Route>
-          <Route path="/history">
+         {/*} <Route path="/history">
             <History />
-          </Route>
+  </Route> */}
         </Switch>
       </div>
     </Router>

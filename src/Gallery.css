@@ -1,0 +1,67 @@
+.gallery-bg {
+  background-image: linear-gradient(
+    rgb(0, 0, 0),
+    rgb(24, 24, 24),
+    rgb(44, 44, 44),
+    rgb(63, 63, 63),
+    rgb(85, 85, 85),
+    rgb(121, 121, 121),
+    rgb(167, 167, 167),
+    rgb(194, 194, 194),
+    white,
+    rgb(71, 71, 71)
+  );
+  background-size: cover;
+  height: 100%;
+  background-attachment: fixed;
+}
+.galleryI {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.seven-eight {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.paragraphgallery {
+  text-align: center;
+  font-size: 15px;
+  color: whitesmoke;
+  padding-bottom: 20px;
+  width: 75%;
+  margin-left: 13%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.eight-nine {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.nine-two {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.two-twoten {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.twoten-present {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.card-body {
+  color: gold;
+  background-color: black;
+}

@@ -146,17 +146,14 @@ const Home = () => {
             <div className="cardd-body">
               <h5 className="cardd-title">Style</h5>
               <p className="card-text">
-                A style in rapping is the kind of way you rap or the image you
-                give when rapping. Artists such a Ice Cube has the hood don't
-                play kind of style. His experiences are based on his lifehood
-                with growing up in the hood and seeing the violence happening
-                there.{" "}
+              Style in rapping is the kind of way you rap or the image you
+                give when rapping. Style is your defination of rap but still with the foundation of rapping.
               </p>
               <p className="style1">
-                Click below to understand more about style in rapping
+                Click below to understand more about <b> Style </b> in rapping
               </p>
               <a
-                href="https://www.youtube.com/watch?v=sEpIQUQAw7g"
+                href="https://www.youtube.com/watch?v=sEpIQUQAw7g" target="_blank"
                 className="btn btn2"
                 role="button"
               >
@@ -165,6 +162,7 @@ const Home = () => {
             </div>
           </div>
         </div>
+
         <div className="col">
           <div className="card">
             <img
@@ -175,25 +173,24 @@ const Home = () => {
             <div className="cardd-body">
               <h5 className="cardd-title">Flow</h5>
               <p className="card-text">
-                A style in rapping is the kind of way you rap or the image you
-                give when rapping. Artists such a Ice Cube has the hood don't
-                play kind of style. His experiences are based on his lifehood
-                with growing up in the hood and seeing the violence happening
-                there.{" "}
+                Flow in rap is your upbeat and distance of time to the rap. If you want 
+                fast pace type or slow pace rap, then thats your flow.
               </p>
               <p className="style1">
-                Click below to understand more about style in rapping
+                Click below to understand more about <b> Flow </b> in rapping
               </p>
+              {/* <a href="https://www.youtube.com/watch?v=sEpIQUQAw7g" target="_blank">Click Here</a>  */}
               <a
-                href="https://www.youtube.com/watch?v=sEpIQUQAw7g"
+                href="https://www.youtube.com/watch?v=J4OncgPlOpY" target="_blank"
                 className="btn btn2"
                 role="button"
               >
                 Click here
-              </a>
+                </a> 
             </div>
           </div>
         </div>
+
         <div className="col">
           <div className="card">
             <img
@@ -205,17 +202,14 @@ const Home = () => {
             <div className="cardd-body">
               <h5 className="cardd-title">Rhythm</h5>
               <p className="card-text">
-                A style in rapping is the kind of way you rap or the image you
-                give when rapping. Artists such a Ice Cube has the hood don't
-                play kind of style. His experiences are based on his lifehood
-                with growing up in the hood and seeing the violence happening
-                there.{" "}
+                Rhythm in rap is your way of putting words together. It can be very random or simple
+                but still sound good when rapping. 
               </p>
               <p className="style1">
-                Click below to understand more about style in rapping
+                Click below to understand more about <b> Rhythm </b> in rapping
               </p>
               <a
-                href="https://www.youtube.com/watch?v=sEpIQUQAw7g"
+                href="https://www.youtube.com/watch?v=fxIhj1ODtl4" target="_blank"
                 className="btn btn2"
                 role="button"
               >

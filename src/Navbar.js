@@ -5,7 +5,7 @@ import { Link, NavLink } from "react-router-dom";
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark">
-      <a className="navbar-brand" href="#">
+      <a className="navbar-brand "style={{ color: '#FFF' }} href="#">
         <b>BreatheFlowin</b>
       </a>
       <button
@@ -27,7 +27,7 @@ const Navbar = () => {
           {/* <li className="nav-item  active">
           <li className="nav-item mr-3 active"> */}
             <a className="nav-link active" href="#">
-              <Link to ="/home">Home</Link>
+              <Link to ="/home" style={{ color: '#FFF' }}>Home</Link>
             </a>
           {/* </li>
           </li> */}
@@ -36,29 +36,29 @@ const Navbar = () => {
 
           {/* <li className="nav-item mr-3 active"> */}
             <a className="nav-link active" href="#">
-              <Link to ="/learnrap">Learn Rap</Link>
+              <Link to ="/learnrap" style={{ color: '#FFF' }}>Learn Rap</Link>
             </a>
           {/* </li> */}
 
 
           {/* <li className="nav-item mr-3 active"> */}
             <a className="nav-link" href="#">
-              <Link to ="/gallery">Gallery</Link>
+              <Link to ="/gallery"style={{ color: '#FFF' }}>Gallery</Link>
             </a>
           {/* </li> */}
 
 
           {/* <li className="nav-item mr-3 active"> */}
             <a className="nav-link" href="#">
-              <Link to ="/music">Music</Link>
+              <Link to ="/music"style={{ color: '#FFF' }}>Music</Link>
             </a>
           {/* </li> */}
 
 
           {/* <li className="nav-item mr-3 active"> */}
-            <a className="nav-link" href="#">
-             <Link to ="/history">History</Link>
-            </a>
+            {/* <a className="nav-link" href="#">
+             <Link to ="/history" style={{ color: '#FFF' }}>History</Link>
+            </a>  */}
         </ul>
       </div>
     </nav>

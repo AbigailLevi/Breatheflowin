@@ -1,3 +1,62 @@
-.testlr{
-    background-color: red;
+.learnrap-bg {
+  background-image: linear-gradient(
+    rgb(0, 0, 0),
+    rgb(24, 24, 24),
+    rgb(44, 44, 44),
+    rgb(63, 63, 63),
+    rgb(85, 85, 85),
+    rgb(121, 121, 121),
+    rgb(167, 167, 167),
+    rgb(194, 194, 194),
+    white,
+    rgb(71, 71, 71)
+  );
+}
+.learnrt {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  color: whitesmoke;
+}
+.learnrp {
+  color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding-top: 30px;
+  width: 90%;
+  margin-left: 5%;
+}
+.cardlr {
+  width: 50%;
+}
+.oneLr {
+  font-size: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.twoLr {
+  font-size: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.threeLr {
+  font-size: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.fourLr {
+  font-size: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.buttonlr {
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: rgb(156, 0, 0);
+  margin-left: 34%;
 }
