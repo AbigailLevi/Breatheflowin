@@ -19,30 +19,10 @@ library.add(faEnvelope, faLock, faCompass);
 
 function App() {
   return (
-    <Router>
-      <div>
-        <Switch>
-          <Route path="/kendrick">
-            <Kendrick />
-          </Route>
-          <Route path="/home">
-            <Home />
-          </Route>
-          <Route path="/learnRap">
-            <Learnrap />
-          </Route>
-          <Route path="/gallery">
-            <Gallery />
-          </Route>
-          <Route path="/music">
-            <Music />
-          </Route>
-         {/*} <Route path="/history">
-            <History />
-  </Route> */}
-        </Switch>
-      </div>
-    </Router>
+    <BrowserRouter basename="/Breathe.flowin">
+      <Link to="/kendrick" />
+      <Link to="/tomorrow" />
+    </BrowserRouter>
   );
 }
 
