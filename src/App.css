@@ -44,3 +44,34 @@ html {
   height: 1000px;
   background-size: 100% 100%;
 }
+
+.ken{
+  text-align: center;
+  margin-top: 195px;
+  font-size: 85px;
+  color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  text-shadow: 2px 2px 7px #111111;
+}
+.kend{
+  text-align: center;
+  color: whitesmoke;
+  margin-top: 25px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  text-shadow: 2px 2px 7px #111111;
+}
+.kendb{
+width: 50%;
+margin: auto;
+padding-top: 60px;
+}
+.kenb{
+background-color: rgba(20, 20, 20, 0.603);
+margin-left: 40%;
+width: 150px;
+height: 50px;
+border-radius: 10px;   
+padding-top: 10px;
+
+}

@@ -16,7 +16,7 @@ const Home = () => {
         <div className="container"></div>
       </div>
 
-      <nav className="navbar navbar-expand-lg navvv navbar-dark">
+      {/* <nav className="navbar navbar-expand-lg navvv navbar-dark">
         <a className="navbar-brand" href="#">
           Navbar
         </a>
@@ -52,7 +52,7 @@ const Home = () => {
             </a>
           </div>
         </div>
-      </nav>
+      </nav> */}
 
       <div className="titleT">Flowing begins within </div>
 
