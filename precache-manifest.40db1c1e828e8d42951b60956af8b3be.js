@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aed5cc3c1bfb9d2ba73f3d159b28be33",
+    "revision": "0c569fc6f8f4a4a8eaf3ef2f25b32de2",
     "url": "/Breathe.flowin/index.html"
   },
   {
-    "revision": "78afe19981dc6b2c42a6",
-    "url": "/Breathe.flowin/static/css/main.ddbd203f.chunk.css"
+    "revision": "7ecfdf79d42ed8405f98",
+    "url": "/Breathe.flowin/static/css/main.b55314c4.chunk.css"
   },
   {
-    "revision": "492bdceff23f843db8a4",
-    "url": "/Breathe.flowin/static/js/2.bca56110.chunk.js"
+    "revision": "3342620b9263466df1dc",
+    "url": "/Breathe.flowin/static/js/2.36579448.chunk.js"
   },
   {
     "revision": "308d2d97fd519422d20953c3e51f94e3",
-    "url": "/Breathe.flowin/static/js/2.bca56110.chunk.js.LICENSE.txt"
+    "url": "/Breathe.flowin/static/js/2.36579448.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78afe19981dc6b2c42a6",
-    "url": "/Breathe.flowin/static/js/main.20ccc3d6.chunk.js"
+    "revision": "7ecfdf79d42ed8405f98",
+    "url": "/Breathe.flowin/static/js/main.5be0f5c3.chunk.js"
   },
   {
     "revision": "8043d64245987b5d8ece",
