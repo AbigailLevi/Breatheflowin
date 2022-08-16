@@ -1,5 +1,5 @@
 import React from "react";
-import "./Breathe.flowin.css";
+import "./Breatheflowin.css";
 import Navbar from "./Navbar.js";
 // import React, { useState } from "react";
 import { Link } from "react-router-dom";

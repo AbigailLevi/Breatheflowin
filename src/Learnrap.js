@@ -20,7 +20,7 @@ const Learnrap = () => {
         <div className="col">
           <div className="card ">
             <img
-              src="https://thumbs.dreamstime.com/b/black-white-rapping-hand-written-word-text-typography-logo-icon-design-iocn-color-can-be-used-branding-card-147084124.jpg"
+              src="https://media.istockphoto.com/photos/small-picture-id471014427?k=20&m=471014427&s=612x612&w=0&h=PLIsgzLiW8XWi9xPtogGSR6VdzdrvX5wUFt5KIdt-pM="
               className="card-img-top"
               alt="..."
             />
@@ -42,7 +42,7 @@ const Learnrap = () => {
         <div className="col">
           <div className="card ">
             <img
-              src="https://thumbs.dreamstime.com/b/black-white-rapping-hand-written-word-text-typography-logo-icon-design-iocn-color-can-be-used-branding-card-147084124.jpg"
+              src="https://media.istockphoto.com/photos/condenser-microphone-on-boom-stand-with-headphones-picture-id1190820602?k=20&m=1190820602&s=612x612&w=0&h=WFGfhkkwsEHSQEp90qjGvqDoRG0RF8khmpYnMVygE0Q="
               class="card-img-top"
               alt="..."
             />
@@ -61,7 +61,7 @@ const Learnrap = () => {
         <div className="col">
           <div className="card ">
             <img
-              src="https://thumbs.dreamstime.com/b/black-white-rapping-hand-written-word-text-typography-logo-icon-design-iocn-color-can-be-used-branding-card-147084124.jpg"
+              src="https://media.istockphoto.com/photos/hiphop-performers-on-stage-in-front-of-a-crowd-picture-id119638925?k=20&m=119638925&s=612x612&w=0&h=YbIfnmHOLi21BZb0XbgyQJfSesoh5hQ7vZBD4zwdPi0="
               class="card-img-top"
               alt="..."
             />
@@ -80,7 +80,7 @@ const Learnrap = () => {
         <div className="col">
           <div className="card ">
             <img
-              src="https://thumbs.dreamstime.com/b/black-white-rapping-hand-written-word-text-typography-logo-icon-design-iocn-color-can-be-used-branding-card-147084124.jpg"
+              src="https://media.istockphoto.com/photos/rap-music-mixtape-cassette-picture-id1220545888?k=20&m=1220545888&s=612x612&w=0&h=ZvmSyEOH4RLTUe8dA54zneVjMcVMN3dAoJjhnkWTnnc="
               class="card-img-top"
               alt="..."
             />

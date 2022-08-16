@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import Kendrick from "./Kendrick.js";
+import Breatheflowin from "./Breatheflowin.js";
 import Home from "./Home.js";
 import Learnrap from "./Learnrap.js";
 import Gallery from "./Gallery.js";
@@ -22,9 +22,9 @@ function App() {
     <Router>
       <div>
         <Switch>
-          <Route path="/kendrick">
-            <Kendrick />
-          </Route>
+         <Route path="/breatheflowin">
+            <Breatheflowin />
+          </Route> 
           <Route path="/home">
             <Home />
           </Route>

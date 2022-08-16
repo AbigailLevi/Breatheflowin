@@ -24,8 +24,8 @@ const Footer = () => {
           Filsaimeam@gmail.com 786-564-8843 Abigail.Fils-Aime
         </div>
         <div className="footerdescript">
-          Hello, thank you for visiting my website called "Breathe Flowin!" This
-          is one of my favorite portfolio because of well I did on creating this
+          Thank you for visiting my website called "Breathe Flowin!" This
+          is one of my favorite portfolio because of how well I did on creating this
           website while having the basic techniques, such as HTML, CSS,
           JavaScript, Bootstrap, and React. Thank you!
         </div>

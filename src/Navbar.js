@@ -5,9 +5,13 @@ import { Link, NavLink } from "react-router-dom";
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark">
-      <a className="navbar-brand "style={{ color: '#FFF' }} href="#">
+       <a className="nav-link active" href="#">
+              <Link to ="/breatheflowin" style={{ color: '#FFF' }}> <b>BreatheFlowin</b></Link>
+            </a>
+
+      {/* <a className="navbar-brand "style={{ color: '#FFF' }} href="#">
         <b>BreatheFlowin</b>
-      </a>
+      </a> */}
       <button
         className="navbar-toggler"
         type="button"

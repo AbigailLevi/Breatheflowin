@@ -81,7 +81,7 @@ const Home = () => {
               <br />
               BLACK LIVES MATTER when another kill us. but
               <br />
-              aint keep that energy when we killing each
+              aint keepin that energy when we killing each
               <br />
               other."
             </div>
