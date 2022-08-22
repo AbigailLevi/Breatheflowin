@@ -26,7 +26,7 @@ const Footer = () => {
         <div className="footerdescript">
           Thank you for visiting my website called "Breathe Flowin!" This
           is one of my favorite portfolio because of how well I did on creating this
-          website while having the basic techniques, such as HTML, CSS,
+          website with just having the basic skills and techniques, such as HTML, CSS,
           JavaScript, Bootstrap, and React. Thank you!!!
         </div>
       </div>
