@@ -254,7 +254,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Regulators, About Murder, hate, and women</p>
+              <p class="card-text">Regulators</p>
             </div>
           </div>
         </div>
@@ -266,7 +266,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">50 cent and a half naked women</p>
+              <p class="card-text">50 cent</p>
             </div>
           </div>
         </div>
@@ -290,7 +290,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Lil kim a female rapper</p>
+              <p class="card-text">Lil kim, female rapper</p>
             </div>
           </div>
         </div>
@@ -342,7 +342,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">tattoos and underwear</p>
+              <p class="card-text">Group rappers</p>
             </div>
           </div>
         </div>
@@ -376,7 +376,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">50 cent still popular</p>
+              <p class="card-text">50 cent</p>
             </div>
           </div>
         </div>
@@ -388,7 +388,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">A guy dancing and a half naked women</p>
+              <p class="card-text">A guy dancing</p>
             </div>
           </div>
         </div>
@@ -415,7 +415,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Pharrell, money, and a women</p>
+              <p class="card-text">Pharrell</p>
             </div>
           </div>
         </div>
@@ -427,7 +427,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Lil wayne tatted, blond dreads, rim teeth</p>
+              <p class="card-text">Lil wayne tatted</p>
             </div>
           </div>
         </div>
@@ -451,7 +451,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Rick Ross: Tits and Tats</p>
+              <p class="card-text">Rick Ross</p>
             </div>
           </div>
         </div>
@@ -476,7 +476,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Drake next to Nicki dimond bralette</p>
+              <p class="card-text">Drake next to Nicki</p>
             </div>
           </div>
         </div>
@@ -488,7 +488,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Tats and Weed Smoking</p>
+              <p class="card-text">Tattoos and smoking</p>
             </div>
           </div>
         </div>
@@ -513,7 +513,7 @@ const Gallery = () => {
             />
             <div class="card-body">
               <p class="card-text">
-                Cardi and Megan displaying sexual acts on stage
+                Cardi and Megan
               </p>
             </div>
           </div>
@@ -528,7 +528,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Lil Nas X half naked</p>
+              <p class="card-text">Lil Nas X</p>
             </div>
           </div>
         </div>
@@ -540,7 +540,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Fully naked women with body paint</p>
+              <p class="card-text">Body paint</p>
             </div>
           </div>
         </div>
@@ -564,7 +564,7 @@ const Gallery = () => {
               alt="..."
             />
             <div class="card-body">
-              <p class="card-text">Tats and hair color</p>
+              <p class="card-text">More tattoos has been involved</p>
             </div>
           </div>
         </div>
