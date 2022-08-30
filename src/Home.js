@@ -62,8 +62,9 @@ const Home = () => {
             <div className="card-body er2">
               <img
                 src="https://f4.bcbits.com/img/0008158198_0"
-                style={{ height: "375px" }}
-                style={{ width: "100%" }}
+                style={{width: '100%' , height: '375px'}}
+                // style={{ height: "375px" }}
+                // style={{ width: "100%" }}
                 alt="The look of Intelligence"
               />
             </div>
