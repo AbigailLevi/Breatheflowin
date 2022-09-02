@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Breatheflowin/static/css/main.c2379bf4.chunk.css",
-    "main.js": "/Breatheflowin/static/js/main.1af1d0e9.chunk.js",
-    "main.js.map": "/Breatheflowin/static/js/main.1af1d0e9.chunk.js.map",
-    "runtime-main.js": "/Breatheflowin/static/js/runtime-main.767fc8d5.js",
-    "runtime-main.js.map": "/Breatheflowin/static/js/runtime-main.767fc8d5.js.map",
-    "static/js/2.556a1b16.chunk.js": "/Breatheflowin/static/js/2.556a1b16.chunk.js",
-    "static/js/2.556a1b16.chunk.js.map": "/Breatheflowin/static/js/2.556a1b16.chunk.js.map",
-    "index.html": "/Breatheflowin/index.html",
-    "precache-manifest.dbe15bd5fb13f8b6ab408c255cff0bb9.js": "/Breatheflowin/precache-manifest.dbe15bd5fb13f8b6ab408c255cff0bb9.js",
-    "service-worker.js": "/Breatheflowin/service-worker.js",
-    "static/css/main.c2379bf4.chunk.css.map": "/Breatheflowin/static/css/main.c2379bf4.chunk.css.map",
-    "static/js/2.556a1b16.chunk.js.LICENSE.txt": "/Breatheflowin/static/js/2.556a1b16.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Breatheflowin/static/media/kendrickawake.a2becd08.webp"
+    "main.css": "/breatheflowin/static/css/main.5447cc68.chunk.css",
+    "main.js": "/breatheflowin/static/js/main.081adf5a.chunk.js",
+    "main.js.map": "/breatheflowin/static/js/main.081adf5a.chunk.js.map",
+    "runtime-main.js": "/breatheflowin/static/js/runtime-main.525f25d0.js",
+    "runtime-main.js.map": "/breatheflowin/static/js/runtime-main.525f25d0.js.map",
+    "static/js/2.556a1b16.chunk.js": "/breatheflowin/static/js/2.556a1b16.chunk.js",
+    "static/js/2.556a1b16.chunk.js.map": "/breatheflowin/static/js/2.556a1b16.chunk.js.map",
+    "index.html": "/breatheflowin/index.html",
+    "precache-manifest.252be551b6f743fd3b7d10bde544cd9f.js": "/breatheflowin/precache-manifest.252be551b6f743fd3b7d10bde544cd9f.js",
+    "service-worker.js": "/breatheflowin/service-worker.js",
+    "static/css/main.5447cc68.chunk.css.map": "/breatheflowin/static/css/main.5447cc68.chunk.css.map",
+    "static/js/2.556a1b16.chunk.js.LICENSE.txt": "/breatheflowin/static/js/2.556a1b16.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breatheflowin/static/media/kendrickawake.a2becd08.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.767fc8d5.js",
+    "static/js/runtime-main.525f25d0.js",
     "static/js/2.556a1b16.chunk.js",
-    "static/css/main.c2379bf4.chunk.css",
-    "static/js/main.1af1d0e9.chunk.js"
+    "static/css/main.5447cc68.chunk.css",
+    "static/js/main.081adf5a.chunk.js"
   ]
 }
