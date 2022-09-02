@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://abigaillevi.github.io/Breatheflowin",
+  "homepage": "https://abigaillevi.github.io/Breathe.flowin",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
