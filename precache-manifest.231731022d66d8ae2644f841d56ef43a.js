@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "929254528dee6eb3abeb67922dceef8f",
+    "revision": "a82dfdacfcedae9654ce78a252e526be",
     "url": "/breatheflowin/index.html"
   },
   {
-    "revision": "80a4e5496f39b2e9a43e",
-    "url": "/breatheflowin/static/css/main.5447cc68.chunk.css"
+    "revision": "cfb1256b1cf2d582dbf9",
+    "url": "/breatheflowin/static/css/main.8b027407.chunk.css"
   },
   {
     "revision": "86a3390862fe7f176ec6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/breatheflowin/static/js/2.556a1b16.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80a4e5496f39b2e9a43e",
-    "url": "/breatheflowin/static/js/main.081adf5a.chunk.js"
+    "revision": "cfb1256b1cf2d582dbf9",
+    "url": "/breatheflowin/static/js/main.86ce0660.chunk.js"
   },
   {
     "revision": "40c782bba259676c6994",
