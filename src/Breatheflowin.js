@@ -13,7 +13,7 @@ const Breatheflowin = () => {
                 <p className="kend">
                     Rapping brings the inner you out to express your thoughts and emotions.
                     It comes out with flow, <br />
-                    rhythm and style, the feeling of flowing words coming out, INCREDIBLE!
+                    rhythm and style, the feeling of flowing words coming out, INCREDIBLE!!
                 </p>
                 {/* <div className="kendb">
                     <a href="#" className="btn kenb btn-outline-dark">
