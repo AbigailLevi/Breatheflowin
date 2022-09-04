@@ -15,13 +15,13 @@ const Breatheflowin = () => {
                     It comes out with flow, <br />
                     rhythm and style, the feeling of flowing words coming out, INCREDIBLE!
                 </p>
-                <div className="kendb">
+                {/* <div className="kendb">
                     <a href="#" className="btn kenb btn-outline-dark">
-                        <Link to="/home" target="_blank" style={{ color: '#FFF' }}> Lets Flow! </Link>
+                        <Link to="/home" target="_blank" style={{ color: '#FFF' }}> Lets Flow! </Link> 
 
                         <span className="sr-only">(current)</span>
                     </a>
-                </div>
+                </div> */}
             </div>
         </html>
     );
