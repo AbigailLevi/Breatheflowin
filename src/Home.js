@@ -74,17 +74,11 @@ const Home = () => {
           <div className="card er3">
             Example of rap
             <div className="card-body er4">
-              "Another black man shot down in these <br />
-              streets, not by the cop, but by another <br />
-              brother hatin. Took his brother life <br />
-              for dub in his pocket, didnt think twice <br />
-              used his gun then he cocked it. We screaming
-              <br />
-              BLACK LIVES MATTER when another kill us. but
-              <br />
-              aint keepin that energy when we killing each
-              <br />
-              other."
+              "Time and time we watch the sun shine <br />
+              Another day break and it's time to shake <br />
+              When will the time be the right time <br />
+             I guest we have to wait till we see another sign <br />
+             "
             </div>
           </div>
         </div>
